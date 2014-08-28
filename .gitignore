@@ -12,3 +12,6 @@ tasks.xml
 /out
 /.idea
 .DS_Store
+.classpath
+.project
+*.iml
