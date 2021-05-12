@@ -48,3 +48,5 @@ grails.project.dependency.resolution = {
         }
     }
 }
+grails.project.repos.jccRepo.url = "file://x:/source/mvn"
+grails.project.repos.default="jccRepo"
